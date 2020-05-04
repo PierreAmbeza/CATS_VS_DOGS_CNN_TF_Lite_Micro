@@ -1,5 +1,7 @@
 # CATS_VS_DOGS_CNN_TF_Lite_Micro
 
+**Remarque: Le modèle défini dans le notebook du dépôt ne correspond pas au modèle utilisé pour la version TF Lite Micro.**
+
 
 ## Tester le projet
 
